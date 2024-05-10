@@ -11,13 +11,13 @@
 
     <groupId>org.jenkins-ci.plugins</groupId>
     <artifactId>ansible-tower</artifactId>
-    <version>0.16.2-SNAPSHOT</version>
+    <version>0.16.1</version>
     <packaging>hpi</packaging>
     <name>Ansible Tower Plugin</name>
     <description>
         This plugin allows Jenkins to run a job template in Ansible Tower.
     </description>
-    <url>https://github.com/jenkinsci/ansible-tower-plugin</url>
+    <url>https://github.com/dbalrod/ansible-tower-plugin</url>
     <licenses>
         <license>
             <name>MIT license</name>
@@ -26,6 +26,11 @@
     </licenses>
 
     <developers>
+        <developer>
+            <id>john-westcott-iv</id>
+            <name>John Westcott IV</name>
+            <email>john.westcott.iv@redhat.com</email>
+        </developer>
         <developer>
             <id>dbalrod</id>
             <name>Diego BR</name>
